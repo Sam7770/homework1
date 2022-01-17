@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    display: flex;
+    background: silver;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+
+
+.target1 {
+    background: darkorange;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+
+    padding: 30px;
+    box-sizing: border-box;
+    border: 2px solid black;
+;
+
+    margin: 100px auto;
+
+    box-shadow: 30px 30px 1px 3px;
+    box-shadow: dimgray;
+
+}
+.target2 {
+    background: darkorange;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+
+    padding: 30px;
+    box-sizing: border-box;
+    border: 2px solid black;
+;
+
+    margin: 100px auto;
+    box-shadow: dimgray;
+    box-shadow: 30px 30px 8px 3px;
+
+
+}
+.target3 {
+    background: darkorange;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+
+    padding: 30px;
+    box-sizing: border-box;
+    border: 2px solid black;
+;
+
+    margin: 100px auto;
+
+    box-shadow: 30px 30px 5px 3px;
+
+}
+.target4 {
+    background: darkorange;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+
+    padding: 30px;
+    box-sizing: border-box;
+    border: 2px solid black;
+;
+
+    margin: 100px auto;
+
+    box-shadow: dimgray 30px 30px 8px 3px;
+
+}
+.target5 {
+    background: darkorange;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+
+    padding: 30px;
+    box-sizing: border-box;
+    border: 2px solid black;
+;
+
+    margin: 100px auto;
+
+    box-shadow: 30px 30px 6px 3px;
+
+}
+.target6 {
+    background: darkorange;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+
+    padding: 30px;
+    box-sizing: border-box;
+    border: 2px solid black;
+;
+
+    margin: 100px auto;
+
+    box-shadow: dimgray 30px 30px 8px 3px;
