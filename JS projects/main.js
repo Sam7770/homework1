@@ -76,7 +76,7 @@ console.log (z13)
 // alert(z12)
 // alert(z13)
 
-// document.write (z1)
+// document.write('<div>' + z1 + '</div>')
 // document.write (z2)
 // document.write (z3)
 // document.write (z4)
@@ -144,9 +144,10 @@ console.log(123 == '123');
 // let a = 5;
 // document.write(str + a + "<br/>");
 // document.write(str - a + "<br/>");
-// document.write(str * "2" + "<br/>");
+// document.write(str * "   2" + "<br/>");
 // document.write(str / 2 + "<br/>");
 
-
+let str = "20";
+let a = 5
 
 
