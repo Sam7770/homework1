@@ -1,0 +1,14 @@
+
+
+
+.target {
+    background-color: rgb(25, 56, 56); color: rgb(255, 255, 255);
+}
+
+.point {text-align: center;}
+
+
+.item {display: flex; justify-content: space-around;}
+
+body {background: linear-gradient(silver, tomato)}
+
